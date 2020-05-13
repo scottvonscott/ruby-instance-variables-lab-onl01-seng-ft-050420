@@ -6,3 +6,4 @@ class Dog
   def name
     this_is_dogs_name
 end
+end
